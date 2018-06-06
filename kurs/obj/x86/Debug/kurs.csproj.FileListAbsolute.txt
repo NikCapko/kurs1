@@ -1,0 +1,22 @@
+c:\users\николай\documents\visual studio 2010\Projects\kurs\kurs\bin\Debug\kurs.exe
+c:\users\николай\documents\visual studio 2010\Projects\kurs\kurs\bin\Debug\kurs.pdb
+c:\users\николай\documents\visual studio 2010\Projects\kurs\kurs\obj\x86\Debug\kurs.Form1.resources
+c:\users\николай\documents\visual studio 2010\Projects\kurs\kurs\obj\x86\Debug\kurs.Properties.Resources.resources
+c:\users\николай\documents\visual studio 2010\Projects\kurs\kurs\obj\x86\Debug\kurs.csproj.GenerateResource.Cache
+c:\users\николай\documents\visual studio 2010\Projects\kurs\kurs\obj\x86\Debug\kurs.exe
+c:\users\николай\documents\visual studio 2010\Projects\kurs\kurs\obj\x86\Debug\kurs.pdb
+F:\Курсовая\kurs1\kurs\obj\x86\Debug\kurs.exe
+F:\Курсовая\kurs1\kurs\obj\x86\Debug\kurs.pdb
+F:\Курсовая\kurs1\kurs\bin\Debug\kurs.exe
+F:\Курсовая\kurs1\kurs\bin\Debug\kurs.pdb
+F:\Курсовая\kurs1\kurs\obj\x86\Debug\kurs.Form1.resources
+F:\Курсовая\kurs1\kurs\obj\x86\Debug\kurs.Properties.Resources.resources
+F:\Курсовая\kurs1\kurs\obj\x86\Debug\kurs.csproj.GenerateResource.Cache
+F:\kurs1\kurs\obj\x86\Debug\kurs.exe
+F:\kurs1\kurs\obj\x86\Debug\kurs.pdb
+F:\kurs1\kurs\obj\x86\Debug\kurs.Form1.resources
+F:\kurs1\kurs\obj\x86\Debug\kurs.Properties.Resources.resources
+F:\kurs1\kurs\obj\x86\Debug\kurs.csproj.GenerateResource.Cache
+F:\kurs1\kurs\bin\Debug\kurs.exe
+F:\kurs1\kurs\bin\Debug\kurs.pdb
+F:\kurs1\kurs\obj\x86\Debug\kurs.csprojResolveAssemblyReference.cache
